@@ -1,0 +1,13 @@
+[package]
+name = "pwgen"
+authors = ["tnsqkyy"]
+description = "A simple password generator."
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/tnsqkyy/pwgen"
+homepage = "https://github.com/tnsqkyy/pwgen"
+documentation = "https://docs.rs/pwgen"
+
+[dependencies]
+rand = "0.8"
